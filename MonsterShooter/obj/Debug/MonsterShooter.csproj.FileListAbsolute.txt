@@ -1,0 +1,11 @@
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\MonsterShooter\bin\Debug\MonsterShooter.exe.config
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\MonsterShooter\bin\Debug\MonsterShooter.exe
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\MonsterShooter\bin\Debug\MonsterShooter.pdb
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\MonsterShooter\obj\Debug\MonsterShooter.csprojResolveAssemblyReference.cache
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\MonsterShooter\obj\Debug\MonsterShooter.Menu.resources
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\MonsterShooter\obj\Debug\MonsterShooter.Properties.Resources.resources
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\MonsterShooter\obj\Debug\MonsterShooter.csproj.GenerateResource.Cache
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\MonsterShooter\obj\Debug\MonsterShooter.exe
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\MonsterShooter\obj\Debug\MonsterShooter.pdb
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\MonsterShooter\bin\Debug\CustomControls.dll
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\MonsterShooter\bin\Debug\CustomControls.pdb

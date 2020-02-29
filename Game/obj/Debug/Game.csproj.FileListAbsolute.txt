@@ -1,0 +1,115 @@
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\Game\obj\Debug\Game.GameForm.resources
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\Game\bin\Debug\Game.exe.config
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\Game\bin\Debug\Game.exe
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\Game\bin\Debug\Game.pdb
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\Game\bin\Debug\CustomControls.dll
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\Game\bin\Debug\CustomControls.pdb
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\Game\obj\Debug\Game.exe
+C:\Users\GHOST\Documents\Visual Studio 2012\Projects\MonsterShooter\Game\obj\Debug\Game.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\bin\Debug\Game.exe.config
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\bin\Debug\Game.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\bin\Debug\Game.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\bin\Debug\CustomControls.dll
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\bin\Debug\Environments.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\bin\Debug\CustomControls.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\bin\Debug\Environments.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\obj\Debug\Game.GameForm.resources
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\obj\Debug\Game.Properties.Resources.resources
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\obj\Debug\Game.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.3 - 22\MonsterShooter\Game\obj\Debug\Game.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.GameForm.resources
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.Properties.Resources.resources
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\Game.exe.config
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\Game.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\Game.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\CustomControls.dll
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\Environments.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\CustomControls.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\Environments.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.pdb
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\Game.exe.config
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\Game.exe
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\Game.pdb
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\CustomControls.dll
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\Environments.exe
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\CustomControls.pdb
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\bin\Debug\Environments.pdb
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.GameForm.resources
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.exe
+D:\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\MonsterShooter\Game\obj\Debug\Game.pdb
+C:\Users\fahim\Desktop\MonsterShooter\Game\bin\Debug\Game.exe.config
+C:\Users\fahim\Desktop\MonsterShooter\Game\bin\Debug\Game.exe
+C:\Users\fahim\Desktop\MonsterShooter\Game\bin\Debug\Game.pdb
+C:\Users\fahim\Desktop\MonsterShooter\Game\bin\Debug\CustomControls.dll
+C:\Users\fahim\Desktop\MonsterShooter\Game\bin\Debug\Environments.exe
+C:\Users\fahim\Desktop\MonsterShooter\Game\bin\Debug\CustomControls.pdb
+C:\Users\fahim\Desktop\MonsterShooter\Game\bin\Debug\Environments.pdb
+C:\Users\fahim\Desktop\MonsterShooter\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\fahim\Desktop\MonsterShooter\Game\obj\Debug\Game.GameForm.resources
+C:\Users\fahim\Desktop\MonsterShooter\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\fahim\Desktop\MonsterShooter\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\fahim\Desktop\MonsterShooter\Game\obj\Debug\Game.exe
+C:\Users\fahim\Desktop\MonsterShooter\Game\obj\Debug\Game.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\bin\Debug\Game.exe.config
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\bin\Debug\Game.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\bin\Debug\Game.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\bin\Debug\CustomControls.dll
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\bin\Debug\Environments.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\bin\Debug\CustomControls.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\bin\Debug\Environments.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\obj\Debug\Game.GameForm.resources
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\obj\Debug\Game.Properties.Resources.resources
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\obj\Debug\Game.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\Desktop_1003\MonsterShooter\Game\obj\Debug\Game.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\bin\Debug\Game.exe.config
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\bin\Debug\Game.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\bin\Debug\Game.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\bin\Debug\CustomControls.dll
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\bin\Debug\Environments.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\bin\Debug\CustomControls.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\bin\Debug\Environments.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\obj\Debug\Game.GameForm.resources
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\obj\Debug\Game.Properties.Resources.resources
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\obj\Debug\Game.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.4 - 23\_Part2\MonsterShooter\Game\obj\Debug\Game.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\bin\Debug\Game.exe.config
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\bin\Debug\Game.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\bin\Debug\Game.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\bin\Debug\CustomControls.dll
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\bin\Debug\Environments.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\bin\Debug\CustomControls.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\bin\Debug\Environments.pdb
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\obj\Debug\Game.GameForm.resources
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\obj\Debug\Game.Properties.Resources.resources
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\obj\Debug\Game.exe
+D:\zOthers (2)\MyThang\_Studies (SE - AIUB)\7th Semester\Object Oriented Programming 2 - C# [G]\_PROJECT\_GAME\zProject\v0.5 - 24\MonsterShooter\Game\obj\Debug\Game.pdb
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\bin\Debug\Game.exe.config
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\bin\Debug\Game.exe
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\bin\Debug\Game.pdb
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\bin\Debug\CustomControls.dll
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\bin\Debug\Environments.exe
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\bin\Debug\CustomControls.pdb
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\bin\Debug\Environments.pdb
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\obj\Debug\Game.GameForm.resources
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\obj\Debug\Game.exe
+C:\Users\fahim\Downloads\MonsterShooter_25-4_1310\MonsterShooter\Game\obj\Debug\Game.pdb
